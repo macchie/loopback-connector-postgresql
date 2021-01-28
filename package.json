@@ -1,5 +1,5 @@
 {
-  "name": "@macchie/loopback-connector-postgresql",
+  "name": "elvispos-loopback-connector-postgresql",
   "version": "5.3.1",
   "description": "Loopback PostgreSQL Connector",
   "engines": {
